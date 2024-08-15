@@ -1,4 +1,4 @@
-package com.codechallenge.account_microservice.dto;
+package com.codechallenge.accounts.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

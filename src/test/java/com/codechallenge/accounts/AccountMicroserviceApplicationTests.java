@@ -1,4 +1,4 @@
-package com.codechallenge.account_microservice;
+package com.codechallenge.accounts;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

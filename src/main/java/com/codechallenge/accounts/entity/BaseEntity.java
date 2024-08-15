@@ -1,4 +1,4 @@
-package com.codechallenge.account_microservice.entity;
+package com.codechallenge.accounts.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.MappedSuperclass;

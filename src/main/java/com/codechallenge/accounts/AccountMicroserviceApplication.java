@@ -1,4 +1,4 @@
-package com.codechallenge.account_microservice;
+package com.codechallenge.accounts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

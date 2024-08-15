@@ -1,4 +1,4 @@
-package com.codechallenge.account_microservice.dto;
+package com.codechallenge.accounts.dto;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotEmpty;
@@ -20,5 +20,5 @@ public class CustomerDto {
     @Pattern(regexp = "(^$|[0-9]{10})", message = "{customer.mobileNumber.pattern}")
     private String mobileNumber;
 
-    private AccountDto accountsDto;
+    private AccountsDto accountsDto;
 }
