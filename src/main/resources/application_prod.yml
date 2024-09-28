@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EasyBank accounts related prod APIs "
+  contactDetails:
+    name: "Samira Radmaneshfar - Software Engineer"
+    email: "Samira.Radmaneshfar@gamil.com"
